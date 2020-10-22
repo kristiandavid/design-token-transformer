@@ -1,11 +1,13 @@
 
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 
 $sizes-32: 32.72; // 32.72px spacer component
 $sizes-frame: 32;
 $sizes-rect: 32;
 $sizes-shape-in-component: 32; // Should use 32px not 20 from inside shape
+$sizes-spacers-42: 42;
+$sizes-spacers-65: 65;
 $borders-unsupported-gradient-borders-stroke-align: inside;
 $borders-unsupported-gradient-borders-dash-pattern: ;
 $borders-unsupported-gradient-borders-stroke-cap: none;
@@ -59,11 +61,21 @@ $radii-mixed-radii-top-right: 2;
 $radii-mixed-radii-bottom-right: 3.5;
 $radii-mixed-radii-bottom-left: 0;
 $radii-mixed-smoothing: 0;
+$radii-bada-55-radius: 0;
+$radii-bada-55-radius-type: single;
+$radii-bada-55-radii-top-left: 0;
+$radii-bada-55-radii-top-right: 0;
+$radii-bada-55-radii-bottom-right: 0;
+$radii-bada-55-radii-bottom-left: 0;
+$radii-bada-55-smoothing: 0;
 $colors-multiple-fills-0: rgba(64, 255, 186, 1);
 $colors-multiple-fills-1: rgba(0, 0, 0, 0.1);
 $colors-single-blue: rgba(4, 74, 255, 1);
 $colors-special-characters-😅: rgba(64, 223, 80, 1); // Emoji
 $colors-special-characters-anderung: rgba(52, 86, 175, 1);
+$colors-bada-55: rgba(186, 218, 85, 1);
+$colors-error: rgba(255, 0, 0, 1);
+$colors-links: rgba(191, 14, 152, 1);
 $gradient-multiple-0-gradient-type: linear;
 $gradient-multiple-0-stops-0-position: 0;
 $gradient-multiple-0-stops-0-color: rgba(255, 184, 0, 1);
@@ -190,3 +202,36 @@ $effect-layer-blur-type: layerBlur;
 $effect-layer-blur-radius: 4;
 $effect-background-blur-type: backgroundBlur;
 $effect-background-blur-radius: 4;
+$fonts-awesome-title-font-size: 36;
+$fonts-awesome-title-text-decoration: none;
+$fonts-awesome-title-font-family: Comic Sans MS;
+$fonts-awesome-title-font-style: Regular;
+$fonts-awesome-title-letter-spacing: 0;
+$fonts-awesome-title-line-height: normal;
+$fonts-awesome-title-paragraph-indent: 0;
+$fonts-awesome-title-paragraph-spacing: 0;
+$fonts-awesome-title-text-case: none;
+$fonts-generic-body-font-size: 14;
+$fonts-generic-body-text-decoration: none;
+$fonts-generic-body-font-family: Comic Sans MS;
+$fonts-generic-body-font-style: Regular;
+$fonts-generic-body-letter-spacing: 0;
+$fonts-generic-body-line-height: normal;
+$fonts-generic-body-paragraph-indent: 0;
+$fonts-generic-body-paragraph-spacing: 0;
+$fonts-generic-body-text-case: none;
+$fonts-generic-body-link-font-size: 14;
+$fonts-generic-body-link-text-decoration: underline;
+$fonts-generic-body-link-font-family: Comic Sans MS;
+$fonts-generic-body-link-font-style: Regular;
+$fonts-generic-body-link-letter-spacing: 0;
+$fonts-generic-body-link-line-height: normal;
+$fonts-generic-body-link-paragraph-indent: 0;
+$fonts-generic-body-link-paragraph-spacing: 0;
+$fonts-generic-body-link-text-case: none;
+$effects-drop-shaow-type: dropShadow;
+$effects-drop-shaow-radius: 4;
+$effects-drop-shaow-color: rgba(0, 0, 0, 0.25);
+$effects-drop-shaow-offset-x: 0;
+$effects-drop-shaow-offset-y: 4;
+$effects-drop-shaow-spread: 0;

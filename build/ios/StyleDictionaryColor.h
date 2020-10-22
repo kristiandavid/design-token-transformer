@@ -3,7 +3,7 @@
 // StyleDictionaryColor.h
 //
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 //
 
 #import <UIKit/UIKit.h>
@@ -19,6 +19,9 @@ ColorsMultipleFills1,
 ColorsSingleBlue,
 ColorsSpecialCharacters😅,
 ColorsSpecialCharactersAnderung,
+ColorsBada55,
+ColorsError,
+ColorsLinks,
 GradientMultiple0Stops0Color,
 GradientMultiple0Stops1Color,
 GradientMultiple1Stops0Color,
@@ -34,7 +37,8 @@ GradientSingleWithMultipleColorStopsStops3Color,
 EffectDropShadowSingleColor,
 EffectInnerShadowMultiple0Color,
 EffectInnerShadowMultiple1Color,
-EffectInnerShadowMultiple2Color
+EffectInnerShadowMultiple2Color,
+EffectsDropShaowColor
 };
 
 @interface StyleDictionaryColor : NSObject

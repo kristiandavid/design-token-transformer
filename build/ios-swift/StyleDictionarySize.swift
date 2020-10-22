@@ -3,7 +3,7 @@
 // StyleDictionarySize.swift
 //
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 //
 
 import UIKit
@@ -48,6 +48,22 @@ public enum StyleDictionarySize {
     public static let innerShadowMultiple2Radius = 3
     public static let innerShadowMultiple2Spread = 11
     public static let layerBlurRadius = 4
+    public static let dropShaowOffsetX = 0
+    public static let dropShaowOffsetY = 4
+    public static let dropShaowRadius = 4
+    public static let dropShaowSpread = 0
+    public static let awesomeTitleFontSize = 36
+    public static let awesomeTitleLetterSpacing = 0
+    public static let awesomeTitleParagraphIndent = 0
+    public static let awesomeTitleParagraphSpacing = 0
+    public static let genericBodyFontSize = 14
+    public static let genericBodyLetterSpacing = 0
+    public static let genericBodyLinkFontSize = 14
+    public static let genericBodyLinkLetterSpacing = 0
+    public static let genericBodyLinkParagraphIndent = 0
+    public static let genericBodyLinkParagraphSpacing = 0
+    public static let genericBodyParagraphIndent = 0
+    public static let genericBodyParagraphSpacing = 0
     public static let multiple0Opacity = 1
     public static let multiple0Stops0Position = 0
     public static let multiple0Stops1Position = 1
@@ -94,6 +110,12 @@ public enum StyleDictionarySize {
     public static let singleCount = 5
     public static let singleGutterSize = 20
     public static let singleSectionSize = 11
+    public static let bada55RadiiBottomLeft = 0
+    public static let bada55RadiiBottomRight = 0
+    public static let bada55RadiiTopLeft = 0
+    public static let bada55RadiiTopRight = 0
+    public static let bada55Radius = 0
+    public static let bada55Smoothing = 0
     public static let mixedRadiiBottomLeft = 0
     public static let mixedRadiiBottomRight = 3.5
     public static let mixedRadiiTopLeft = 1
@@ -109,4 +131,6 @@ public enum StyleDictionarySize {
     public static let frame = 32
     public static let rect = 32
     public static let shapeInComponent = 32
+    public static let spacers42 = 42
+    public static let spacers65 = 65
 }

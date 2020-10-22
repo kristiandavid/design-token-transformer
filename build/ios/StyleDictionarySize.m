@@ -3,7 +3,7 @@
 // StyleDictionarySize.m
 //
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 //
 
 #import "StyleDictionarySize.h"
@@ -14,6 +14,8 @@ float const Sizes32 = 32.72;
 float const SizesFrame = 32;
 float const SizesRect = 32;
 float const SizesShapeInComponent = 32;
+float const SizesSpacers42 = 42;
+float const SizesSpacers65 = 65;
 float const BordersUnsupportedGradientBordersStrokeMiterAngle = 4;
 float const BordersUnsupportedGradientBordersStrokeWeight = 1;
 float const BordersUnsupportedMultipleBordersStrokeMiterAngle = 4;
@@ -37,6 +39,12 @@ float const RadiiMixedRadiiTopRight = 2;
 float const RadiiMixedRadiiBottomRight = 3.5;
 float const RadiiMixedRadiiBottomLeft = 0;
 float const RadiiMixedSmoothing = 0;
+float const RadiiBada55Radius = 0;
+float const RadiiBada55RadiiTopLeft = 0;
+float const RadiiBada55RadiiTopRight = 0;
+float const RadiiBada55RadiiBottomRight = 0;
+float const RadiiBada55RadiiBottomLeft = 0;
+float const RadiiBada55Smoothing = 0;
 float const GradientMultiple0Stops0Position = 0;
 float const GradientMultiple0Stops1Position = 1;
 float const GradientMultiple0Opacity = 1;
@@ -110,3 +118,19 @@ float const EffectInnerShadowMultiple2OffsetY = 2;
 float const EffectInnerShadowMultiple2Spread = 11;
 float const EffectLayerBlurRadius = 4;
 float const EffectBackgroundBlurRadius = 4;
+float const FontsAwesomeTitleFontSize = 36;
+float const FontsAwesomeTitleLetterSpacing = 0;
+float const FontsAwesomeTitleParagraphIndent = 0;
+float const FontsAwesomeTitleParagraphSpacing = 0;
+float const FontsGenericBodyFontSize = 14;
+float const FontsGenericBodyLetterSpacing = 0;
+float const FontsGenericBodyParagraphIndent = 0;
+float const FontsGenericBodyParagraphSpacing = 0;
+float const FontsGenericBodyLinkFontSize = 14;
+float const FontsGenericBodyLinkLetterSpacing = 0;
+float const FontsGenericBodyLinkParagraphIndent = 0;
+float const FontsGenericBodyLinkParagraphSpacing = 0;
+float const EffectsDropShaowRadius = 4;
+float const EffectsDropShaowOffsetX = 0;
+float const EffectsDropShaowOffsetY = 4;
+float const EffectsDropShaowSpread = 0;

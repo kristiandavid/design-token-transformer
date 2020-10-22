@@ -3,7 +3,7 @@
 // StyleDictionary.swift
 //
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 //
 
 
@@ -68,6 +68,9 @@ public class StyleDictionary {
     public static let bordersUnsupportedMultipleBordersStrokeJoin = miter
     public static let bordersUnsupportedMultipleBordersStrokeMiterAngle = 4
     public static let bordersUnsupportedMultipleBordersStrokeWeight = 1
+    public static let colorsBada55 = rgba(186, 218, 85, 1)
+    public static let colorsError = rgba(255, 0, 0, 1)
+    public static let colorsLinks = rgba(191, 14, 152, 1)
     public static let colorsMultipleFills0 = rgba(64, 255, 186, 1)
     public static let colorsMultipleFills1 = rgba(0, 0, 0, 0.1)
     public static let colorsSingleBlue = rgba(4, 74, 255, 1)
@@ -101,6 +104,39 @@ public class StyleDictionary {
     public static let effectInnerShadowMultiple2Type = innerShadow
     public static let effectLayerBlurRadius = 4
     public static let effectLayerBlurType = layerBlur
+    public static let effectsDropShaowColor = rgba(0, 0, 0, 0.25)
+    public static let effectsDropShaowOffsetX = 0
+    public static let effectsDropShaowOffsetY = 4
+    public static let effectsDropShaowRadius = 4
+    public static let effectsDropShaowSpread = 0
+    public static let effectsDropShaowType = dropShadow
+    public static let fontsAwesomeTitleFontFamily = Comic Sans MS
+    public static let fontsAwesomeTitleFontSize = 36
+    public static let fontsAwesomeTitleFontStyle = Regular
+    public static let fontsAwesomeTitleLetterSpacing = 0
+    public static let fontsAwesomeTitleLineHeight = normal
+    public static let fontsAwesomeTitleParagraphIndent = 0
+    public static let fontsAwesomeTitleParagraphSpacing = 0
+    public static let fontsAwesomeTitleTextCase = none
+    public static let fontsAwesomeTitleTextDecoration = none
+    public static let fontsGenericBodyFontFamily = Comic Sans MS
+    public static let fontsGenericBodyFontSize = 14
+    public static let fontsGenericBodyFontStyle = Regular
+    public static let fontsGenericBodyLetterSpacing = 0
+    public static let fontsGenericBodyLineHeight = normal
+    public static let fontsGenericBodyLinkFontFamily = Comic Sans MS
+    public static let fontsGenericBodyLinkFontSize = 14
+    public static let fontsGenericBodyLinkFontStyle = Regular
+    public static let fontsGenericBodyLinkLetterSpacing = 0
+    public static let fontsGenericBodyLinkLineHeight = normal
+    public static let fontsGenericBodyLinkParagraphIndent = 0
+    public static let fontsGenericBodyLinkParagraphSpacing = 0
+    public static let fontsGenericBodyLinkTextCase = none
+    public static let fontsGenericBodyLinkTextDecoration = underline
+    public static let fontsGenericBodyParagraphIndent = 0
+    public static let fontsGenericBodyParagraphSpacing = 0
+    public static let fontsGenericBodyTextCase = none
+    public static let fontsGenericBodyTextDecoration = none
     public static let gradientMultiple0GradientType = linear
     public static let gradientMultiple0Opacity = 1
     public static let gradientMultiple0Stops0Color = rgba(255, 184, 0, 1)
@@ -181,6 +217,13 @@ public class StyleDictionary {
     public static let gridSingleGutterSize = 20
     public static let gridSinglePattern = columns
     public static let gridSingleSectionSize = 11
+    public static let radiiBada55RadiiBottomLeft = 0
+    public static let radiiBada55RadiiBottomRight = 0
+    public static let radiiBada55RadiiTopLeft = 0
+    public static let radiiBada55RadiiTopRight = 0
+    public static let radiiBada55Radius = 0
+    public static let radiiBada55RadiusType = single
+    public static let radiiBada55Smoothing = 0
     public static let radiiMixedRadiiBottomLeft = 0
     public static let radiiMixedRadiiBottomRight = 3.5
     public static let radiiMixedRadiiTopLeft = 1
@@ -198,4 +241,6 @@ public class StyleDictionary {
     public static let sizesFrame = 32
     public static let sizesRect = 32
     public static let sizesShapeInComponent = 32
+    public static let sizesSpacers42 = 42
+    public static let sizesSpacers65 = 65
 }

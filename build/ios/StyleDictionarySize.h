@@ -2,7 +2,7 @@
 // StyleDictionarySize.h
 //
 // Do not edit directly
-// Generated on Thu, 15 Oct 2020 16:55:25 GMT
+// Generated on Thu, 22 Oct 2020 01:51:19 GMT
 //
 
 #import <Foundation/Foundation.h>
@@ -13,6 +13,8 @@ extern float const Sizes32;
 extern float const SizesFrame;
 extern float const SizesRect;
 extern float const SizesShapeInComponent;
+extern float const SizesSpacers42;
+extern float const SizesSpacers65;
 extern float const BordersUnsupportedGradientBordersStrokeMiterAngle;
 extern float const BordersUnsupportedGradientBordersStrokeWeight;
 extern float const BordersUnsupportedMultipleBordersStrokeMiterAngle;
@@ -36,6 +38,12 @@ extern float const RadiiMixedRadiiTopRight;
 extern float const RadiiMixedRadiiBottomRight;
 extern float const RadiiMixedRadiiBottomLeft;
 extern float const RadiiMixedSmoothing;
+extern float const RadiiBada55Radius;
+extern float const RadiiBada55RadiiTopLeft;
+extern float const RadiiBada55RadiiTopRight;
+extern float const RadiiBada55RadiiBottomRight;
+extern float const RadiiBada55RadiiBottomLeft;
+extern float const RadiiBada55Smoothing;
 extern float const GradientMultiple0Stops0Position;
 extern float const GradientMultiple0Stops1Position;
 extern float const GradientMultiple0Opacity;
@@ -109,3 +117,19 @@ extern float const EffectInnerShadowMultiple2OffsetY;
 extern float const EffectInnerShadowMultiple2Spread;
 extern float const EffectLayerBlurRadius;
 extern float const EffectBackgroundBlurRadius;
+extern float const FontsAwesomeTitleFontSize;
+extern float const FontsAwesomeTitleLetterSpacing;
+extern float const FontsAwesomeTitleParagraphIndent;
+extern float const FontsAwesomeTitleParagraphSpacing;
+extern float const FontsGenericBodyFontSize;
+extern float const FontsGenericBodyLetterSpacing;
+extern float const FontsGenericBodyParagraphIndent;
+extern float const FontsGenericBodyParagraphSpacing;
+extern float const FontsGenericBodyLinkFontSize;
+extern float const FontsGenericBodyLinkLetterSpacing;
+extern float const FontsGenericBodyLinkParagraphIndent;
+extern float const FontsGenericBodyLinkParagraphSpacing;
+extern float const EffectsDropShaowRadius;
+extern float const EffectsDropShaowOffsetX;
+extern float const EffectsDropShaowOffsetY;
+extern float const EffectsDropShaowSpread;
